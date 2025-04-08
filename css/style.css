@@ -102,6 +102,9 @@ body {
   width: 100px;
 }
 
+.user_result img {
+  transform: rotateY(180deg);
+}
 
 .result {
   text-align: center;
